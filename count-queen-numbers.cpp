@@ -88,7 +88,7 @@ int countQueens(int** arr, int n){
 }
 
 int main(){
-	int size, tmpMax = 0;
+	int size;
 	int** arrayToCheck;
 
 	input2DArray(arrayToCheck, size);
